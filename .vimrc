@@ -1,4 +1,4 @@
 set shiftwidth=4 smarttab
-#set expandtab  
+"set expandtab  
 
 set relativenumber
