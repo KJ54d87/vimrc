@@ -15,4 +15,4 @@ hi Search ctermbg=3 ctermfg=0
 
 nnoremap n nzzzv
 
-
+set showcmd
