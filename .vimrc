@@ -16,3 +16,8 @@ hi Search ctermbg=3 ctermfg=0
 nnoremap n nzzzv
 
 set showcmd
+
+set showfulltag
+set tags+=tags
+
+" note, " is for commenting
